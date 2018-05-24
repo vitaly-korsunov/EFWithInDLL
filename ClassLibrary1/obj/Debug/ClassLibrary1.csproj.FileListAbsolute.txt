@@ -1,0 +1,8 @@
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,13 @@
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\bin\Debug\EFWithInDLL.exe.config
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\bin\Debug\EFWithInDLL.exe
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\bin\Debug\EFWithInDLL.pdb
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\bin\Debug\ClassLibrary1.dll
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\bin\Debug\EntityFramework.dll
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\bin\Debug\ClassLibrary1.pdb
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\bin\Debug\EntityFramework.xml
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\obj\Debug\EFWithInDLL.csprojResolveAssemblyReference.cache
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\obj\Debug\EFWithInDLL.Form1.resources
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\obj\Debug\EFWithInDLL.Properties.Resources.resources
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\obj\Debug\EFWithInDLL.csproj.GenerateResource.Cache
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\obj\Debug\EFWithInDLL.exe
+C:\Users\Vitaly\Documents\Projects\EFWithInDLL\EFWithInDLL\obj\Debug\EFWithInDLL.pdb
