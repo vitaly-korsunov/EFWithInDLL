@@ -26,6 +26,7 @@ namespace EFWithInDLL
             List<Employee> eList= loNorthWind.Employees.ToList();
     //        MessageBox.Show(loNorthWind.Employees.SingleOrDefault(em => em.EmployeeID == 7).Country.GetType().ToString());
             comboBox1.DataSource = eList;
+            //for
 
             comboBox1.DisplayMember = "FirstName";
         }
